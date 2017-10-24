@@ -1,9 +1,14 @@
 # Google Doodle
 
+June 28th Pride Day
+
 ## Brainstorm Ideas
 
-* ABC
-* XYZ
+* Each letter of google is a different flag color, maybe so when you hover over the letter it changes? Or shimmers?
+* People celebrating
+* Rainbow
+* But it should be inclusive
+* 
 
 
 ## Content Doodle
