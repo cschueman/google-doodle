@@ -2,15 +2,22 @@
 
 /* Stage */
 
+
 #stage {
-    background: gray;
+    background: pink;
+  border: 1px solid black;
+  position: relative;
     height: 300px;
     width: 600px;
+    overflow: hidden;
 }
 
-#stage #star {
-    height: 100px;
-    width: 100px;
+#stage:hover #trans, #pan, #gay {
+  animation: bounce 1s infinite;
+}
+
+#stage:hover #bi, #ace {
+  animation: bounce 2s infinite 1s;
 }
 
 

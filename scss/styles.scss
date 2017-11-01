@@ -1,36 +1,45 @@
-// Grand Central Station
 
-@import 'google-homepage';
-
-
-// First Frame
-img {
-    
-    opacity: .5;
-    transform: scale(.25) rotate(0);
-    width: 40%;
-    
-    transition: transform .5s;
+#pride {
+  height: 100px;
+  position: relative;
+  top: 10px;
 }
 
-// Last Frame
-img:hover {
-    opacity: 1;
-    transform: scale(1.5) rotate(180deg);
+#trans {
+  height: 125px;
+  position: absolute;
+  bottom: -10px;
+  left: 50px;
+} 
+
+#bi {
+  height: 125px;
+  position: absolute;
+  bottom: -10px;
+  left: 150px;
 }
 
-// First Frame
-.line {
-     fill:none;
-     stroke:#8cff19;
-     stroke-width:30;
-     stroke-miterlimit:10;
-    
-    transition: stroke 1s;
+#pan {height: 125px;
+  position: absolute;
+  bottom: -10px;
+  left: 250px;
 }
 
-// Last Frame
-.line:hover {
-    stroke: red;
+#ace {
+  height: 125px;
+  position: absolute;
+  bottom: -10px;
+  left: 350px;
 }
+
+#gay {
+  height: 125px;
+  position: absolute;
+  bottom: -10px;
+  left: 450px;
+}
+
+
+
+
 
