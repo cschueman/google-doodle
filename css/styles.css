@@ -2,8 +2,17 @@
 
 #pride {
   height: 100px;
+
   position: relative;
   top: 10px;
+}
+
+#pride path {
+    stroke: white;
+}
+
+#pride line {
+    stroke: white;
 }
 
 #trans {
